@@ -55,3 +55,12 @@ ii.	Predictions are plotted alongside actual values using matplotlib to visually
 i.	The model's accuracy is assessed using metrics such as mean absolute error, mean squared error, and root mean squared error (mean_squared_error() and mean_absolute_error()).
 
 ii.	Comparisons between actual and predicted values are visualized, and errors are calculated for performance assessment.
+
+# RESULT
+
+## Initial Code without Min-Max Scaling
+
+### 1.	Good Results with Tesla Stock Dataset
+
+The initial results with the Tesla stock dataset were promising, suggesting that the model could handle this data effectively even without scaling.
+This could be attributed to the nature of the Tesla stock data being well-suited to the model's assumptions, distribution, or internal parameters.
