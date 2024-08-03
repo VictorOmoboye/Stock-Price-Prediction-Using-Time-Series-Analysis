@@ -18,3 +18,14 @@ Furthermore, studies have investigated the impact of ensemble methods on financi
 However, data scientists are exploring techniques such as attention mechanisms and model- agnostic methods to address this concern. In addition, time series data often exhibit characteristics like seasonality, trends, and outliers, which require careful handling during preprocessing and modelling (Alexandropoulos et al., 2019). Consequently, advanced techniques such as seasonal decomposition of time series data and rolling window analysis are utilized to account for these factors.
 
 Finally, it is essential to acknowledge the importance of evaluating model performance comprehensively. Frequently employed measures encompass mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE), and mean absolute percentage error (MAPE). These metrics offer understanding into the accuracy, precision, and bias of the model.
+
+# METHODLOGY
+## Data Loading and Cleaning
+
+i.	I started the code with the importation of necessary libraries, and subsequently, loading of the datasetfrom CSV files using pandas (pd.read_csv()), followed by setting the date column as the index and converting it to datetime format (pd.to_datetime()).
+ii.	It removes unnecessary columns and checks for null values (isnull().sum()) to ensure data quality.
+Exploratory Data Analysis
+
+i.	The dataset was explored through descriptive statistics (describe()) and visualization using matplotlib (plot()) to understand trends, seasonality, and volatility. The data was also seen to be not normally distributed.
+ii.	Augmented Dickey-Fuller (ADF) tests (adfuller) are used to check for stationarity in the time series data.
+ 
