@@ -23,28 +23,35 @@ Finally, it is essential to acknowledge the importance of evaluating model perfo
 ## Data Loading and Cleaning
 
 i.	I started the code with the importation of necessary libraries, and subsequently, loading of the datasetfrom CSV files using pandas (pd.read_csv()), followed by setting the date column as the index and converting it to datetime format (pd.to_datetime()).
+
 ii.	It removes unnecessary columns and checks for null values (isnull().sum()) to ensure data quality.
 
 ## Exploratory Data Analysis
 i.	The dataset was explored through descriptive statistics (describe()) and visualization using matplotlib (plot()) to understand trends, seasonality, and volatility. The data was also seen to be not normally distributed.
+
 ii.	Augmented Dickey-Fuller (ADF) tests (adfuller) are used to check for stationarity in the time series data.
 
 ## Data Preprocessing
 i.	The code constructs a training dataset by using a sliding window approach to generate input- output pairs (X_train and y_train) for the model.
+
 ii.	The data is split into training and validation sets, and reshaped for compatibility with the model's input format (np.reshape()).
 
 ## Model Creation
 i.	I made a LSTM model using the Keras library; this consists multiple LSTM layers, batch normalization, dropout layers, and dense layers for feature extraction and regularization.
+
 ii.	The model is compiled with an Adam optimizer and mean squared error loss function.
 
 ## Model Training
 i.	The model is trained using training data with early stopping and learning rate reduction callbacks to prevent overfitting and optimize training (model.fit()). 
+
 ii.	The model's training process is monitored through loss and validation loss.
 
 ## Predictions and Forecasts
 i.	Predictions are made on the validation set (model.predict()) and further tested by forecasting the next 30 days.
+
 ii.	Predictions are plotted alongside actual values using matplotlib to visually assess the model's performance.
 
 ## Model Evaluation
 i.	The model's accuracy is assessed using metrics such as mean absolute error, mean squared error, and root mean squared error (mean_squared_error() and mean_absolute_error()).
+
 ii.	Comparisons between actual and predicted values are visualized, and errors are calculated for performance assessment.
