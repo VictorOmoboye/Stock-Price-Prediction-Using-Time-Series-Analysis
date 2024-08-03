@@ -69,3 +69,4 @@ This could be attributed to the nature of the Tesla stock data being well-suited
 
 In contrast, the BTC-USD dataset produced a flat graph, indicating poor performance and a potential issue with the model. A flat graph suggests that the model could not capture the trends or patterns in the BTC-USD data, possibly due to the differences in data distribution or feature ranges.
 
+## Min-Max Scaling and Improved Results
