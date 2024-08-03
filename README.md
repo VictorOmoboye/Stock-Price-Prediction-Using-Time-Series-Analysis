@@ -42,7 +42,7 @@ i.	I made a LSTM model using the Keras library; this consists multiple LSTM laye
 ii.	The model is compiled with an Adam optimizer and mean squared error loss function.
 
 ## Model Training
-i.	The model is trained using training data with early stopping and learning rate reduction callbacks to prevent overfitting and optimize training (model.fit()). 
+i.	The model is trained using training data with early stopping and learning rate reduction callbacks to prevent overfitting and optimize training (model.fit()).  
 
 ii.	The model's training process is monitored through loss and validation loss.
 
@@ -64,3 +64,8 @@ ii.	Comparisons between actual and predicted values are visualized, and errors a
 
 The initial results with the Tesla stock dataset were promising, suggesting that the model could handle this data effectively even without scaling.
 This could be attributed to the nature of the Tesla stock data being well-suited to the model's assumptions, distribution, or internal parameters.
+
+### 2.	Poor Results with BTC-USD Validation Dataset
+
+In contrast, the BTC-USD dataset produced a flat graph, indicating poor performance and a potential issue with the model. A flat graph suggests that the model could not capture the trends or patterns in the BTC-USD data, possibly due to the differences in data distribution or feature ranges.
+
