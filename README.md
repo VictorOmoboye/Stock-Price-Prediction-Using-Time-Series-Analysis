@@ -28,6 +28,7 @@ ii.	It removes unnecessary columns and checks for null values (isnull().sum()) t
 
 ## Exploratory Data Analysis
 i.	The dataset was explored through descriptive statistics (describe()) and visualization using matplotlib (plot()) to understand trends, seasonality, and volatility. The data was also seen to be not normally distributed.
+![image](https://github.com/user-attachments/assets/b2d3858e-6968-4638-9f9b-23a0de85392b)
 
 ii.	Augmented Dickey-Fuller (ADF) tests (adfuller) are used to check for stationarity in the time series data.
 
