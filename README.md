@@ -76,5 +76,9 @@ Scaling the data using min-max normalization aligns both datasets within a simil
 
 ### Tesla Prediction
 ![image](https://github.com/user-attachments/assets/a4660210-2b40-4374-90bf-cc91c7fd6292)
+![image](https://github.com/user-attachments/assets/785792ef-b593-4523-8e53-c86118c905c8)
 
-![image](https://github.com/user-attachments/assets/7f4e168f-8909-4d0a-9126-8c8485590f92)
+
+### BTC-USD Prediction
+![image](https://github.com/user-attachments/assets/cc30b575-a999-4676-8e6e-6e79070fe689)
+![image](https://github.com/user-attachments/assets/94ca0f50-7ae5-4db9-8526-b1eab121329f)
