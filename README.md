@@ -73,3 +73,8 @@ In contrast, the BTC-USD dataset produced a flat graph, indicating poor performa
 ### 1. Scaling Both Datasets
 
 Scaling the data using min-max normalization aligns both datasets within a similar rang [0,1]. This process helps eradicate the differences in data distributions and ensures that features are on the same scale. After scaling, both datasets yielded great results, demonstrating the importance of data preprocessing in model training. Through this, the model could better understand and adapt to the patterns and trends in both datasets.
+
+### Tesla Prediction
+![image](https://github.com/user-attachments/assets/a4660210-2b40-4374-90bf-cc91c7fd6292)
+
+![image](https://github.com/user-attachments/assets/7f4e168f-8909-4d0a-9126-8c8485590f92)
