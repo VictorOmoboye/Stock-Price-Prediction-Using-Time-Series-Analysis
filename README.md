@@ -63,6 +63,7 @@ ii.	Comparisons between actual and predicted values are visualized, and errors a
 ### 1.	Good Results with Tesla Stock Dataset
 
 The initial results with the Tesla stock dataset were promising, suggesting that the model could handle this data effectively even without scaling.
+![image](https://github.com/user-attachments/assets/5bbdd65e-cf90-4fb6-b0fe-f9e7785674ed)
 This could be attributed to the nature of the Tesla stock data being well-suited to the model's assumptions, distribution, or internal parameters.
 
 ### 2.	Poor Results with BTC-USD Validation Dataset
