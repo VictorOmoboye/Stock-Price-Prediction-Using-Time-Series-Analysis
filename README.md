@@ -96,3 +96,4 @@ The findings highlight the importance of scaling in machine learning models to e
 ## Conclusion
 
 This project demonstrated the importance of data scaling in achieving consistent and robust model performance across different datasets. Therefore, the insights gained highlights the necessity of ensuring feature ranges are consistent across datasets, which can lead to better generalization and accuracy. Consequently, this project’s success has potential impacts on financial modelling and other domains where data consistency and model performance are critical. In the context of future enhancement, experimenting with other scaling methods such as standardization or more advanced normalization techniques could offer further performance improvements. Additionally, investigating the model's sensitivity to data preprocessing and exploring techniques like regularization or early stopping could further enhance the model’s robustness and adaptability across diverse datasets.
+
