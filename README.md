@@ -88,3 +88,8 @@ Scaling the data using min-max normalization aligns both datasets within a simil
 ![image](https://github.com/user-attachments/assets/cc30b575-a999-4676-8e6e-6e79070fe689)
 
 ![image](https://github.com/user-attachments/assets/94ca0f50-7ae5-4db9-8526-b1eab121329f)
+
+## Analysis
+
+The findings highlight the importance of scaling in machine learning models to ensure consistent performance across different datasets. Without proper data scaling, a model that excels on one dataset may struggle on another due to varying feature ranges. Scaling helps avoid problems like overfitting or underfitting by providing uniform data input to the model. Although my initial concerns focused on potential domain differences or overfitting, the enhanced results following data scaling indicate that the core issue was likely related to inadequate data preprocessing. Thus, by normalizing the feature ranges, scaling appears to have mitigated discrepancies between datasets, enabling the model to generalize more effectively.
+
