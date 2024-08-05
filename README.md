@@ -102,3 +102,4 @@ Alexandropoulos, S.A.N., Kotsiantis, S.B. and Vrahatis, M.N., (2019). Data prepr
 Ali, M., Khan, D.M., Aamir, M., Ali, A. and Ahmad, Z., (2021). Predicting the direction movement of financial time series using artificial neural network and support vector machine. Complexity, 2021, pp.1-13.
 Bhandari, H.N., Rimal, B., Pokhrel, N.R., Rimal, R., Dahal, K.R. and Khatri, R.K., (2022). Predicting stock market index using LSTM. Machine Learning with Applications, 9, p.100320.
 Chung, H. and Shin, K.S., (2018). Genetic algorithm-optimized long short-term memory network for stock market prediction. Sustainability, 10(10), p.3765.
+Karim, F., Majumdar, S., Darabi, H. and Chen, S., (2017). LSTM fully convolutional networks for time series classification. IEEE access, 6, pp.1662-1669.
