@@ -100,3 +100,4 @@ This project demonstrated the importance of data scaling in achieving consistent
 ## References
 Alexandropoulos, S.A.N., Kotsiantis, S.B. and Vrahatis, M.N., (2019). Data preprocessing in predictive data mining. The Knowledge Engineering Review, 34, p.e1.
 Ali, M., Khan, D.M., Aamir, M., Ali, A. and Ahmad, Z., (2021). Predicting the direction movement of financial time series using artificial neural network and support vector machine. Complexity, 2021, pp.1-13.
+Bhandari, H.N., Rimal, B., Pokhrel, N.R., Rimal, R., Dahal, K.R. and Khatri, R.K., (2022). Predicting stock market index using LSTM. Machine Learning with Applications, 9, p.100320.
