@@ -113,3 +113,5 @@ Lipton, Z.C., Kale, D.C., Elkan, C. and Wetzel, R., (2015). Learning to diagnose
 Su, J., Jiang, C., Jin, X., Qiao, Y., Xiao, T., Ma, H., Wei, R., Jing, Z., Xu, J. and Lin, J., (2024). Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review. arXiv preprint arXiv:2402.10350.
 
 Van Houdt, G., Mosquera, C. and Nápoles, G., (2020). A review on the long short-term memory model. Artificial Intelligence Review, 53(8), pp.5929-5955.
+
+Wang, X., Liu, H., Du, J., Dong, X. and Yang, Z., (2023). A long-term multivariate time series forecasting network combining series decomposition and convolutional neural networks. Applied Soft Computing, 139, p.110214.
