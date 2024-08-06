@@ -122,3 +122,4 @@ Wibawa, A.P., Fadhilla, A.F., Paramarta, A.K.A.I., Triono, A.P.P., Setyaputri, F
 
 A.K.G. and Utama, A.B.P., (2024). Bidirectional Long Short-Term Memory (Bi-LSTM) Hourly Energy Forecasting. In E3S Web of Conferences (Vol. 501, p. 01023). EDP Sciences.
 
+Zeebaree, D.Q., Abdulazeez, A.M., Abdullrhman, L.M., Hasan, D.A. and Kareem, O.S., (2021). The prediction process based on deep recurrent neural networks: A Review. Asian Journal of Research in Computer Science, 11(2), pp.29-45.
