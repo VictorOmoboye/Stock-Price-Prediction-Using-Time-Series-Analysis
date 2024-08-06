@@ -111,3 +111,5 @@ Karim, F., Majumdar, S., Darabi, H. and Chen, S., (2017). LSTM fully convolution
 Lipton, Z.C., Kale, D.C., Elkan, C. and Wetzel, R., (2015). Learning to diagnose with LSTM recurrent neural networks. arXiv preprint arXiv:1511.03677.
 
 Su, J., Jiang, C., Jin, X., Qiao, Y., Xiao, T., Ma, H., Wei, R., Jing, Z., Xu, J. and Lin, J., (2024). Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review. arXiv preprint arXiv:2402.10350.
+
+Van Houdt, G., Mosquera, C. and Nápoles, G., (2020). A review on the long short-term memory model. Artificial Intelligence Review, 53(8), pp.5929-5955.
