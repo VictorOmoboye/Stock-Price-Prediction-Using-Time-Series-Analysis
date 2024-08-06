@@ -117,3 +117,8 @@ Van Houdt, G., Mosquera, C. and Nápoles, G., (2020). A review on the long short
 Wang, X., Liu, H., Du, J., Dong, X. and Yang, Z., (2023). A long-term multivariate time series forecasting network combining series decomposition and convolutional neural networks. Applied Soft Computing, 139, p.110214.
 
 Wang, Y., Chen, Q., Sun, M., Kang, C. and Xia, Q., 2018. An ensemble forecasting method for the aggregated load with subprofiles. IEEE Transactions on Smart Grid, 9(4), pp.3906-3908.
+
+Wibawa, A.P., Fadhilla, A.F., Paramarta, A.K.A.I., Triono, A.P.P., Setyaputri, F.U., Akbari,
+
+A.K.G. and Utama, A.B.P., (2024). Bidirectional Long Short-Term Memory (Bi-LSTM) Hourly Energy Forecasting. In E3S Web of Conferences (Vol. 501, p. 01023). EDP Sciences.
+
