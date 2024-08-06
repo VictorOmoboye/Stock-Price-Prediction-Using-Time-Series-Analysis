@@ -115,3 +115,5 @@ Su, J., Jiang, C., Jin, X., Qiao, Y., Xiao, T., Ma, H., Wei, R., Jing, Z., Xu, J
 Van Houdt, G., Mosquera, C. and Nápoles, G., (2020). A review on the long short-term memory model. Artificial Intelligence Review, 53(8), pp.5929-5955.
 
 Wang, X., Liu, H., Du, J., Dong, X. and Yang, Z., (2023). A long-term multivariate time series forecasting network combining series decomposition and convolutional neural networks. Applied Soft Computing, 139, p.110214.
+
+Wang, Y., Chen, Q., Sun, M., Kang, C. and Xia, Q., 2018. An ensemble forecasting method for the aggregated load with subprofiles. IEEE Transactions on Smart Grid, 9(4), pp.3906-3908.
