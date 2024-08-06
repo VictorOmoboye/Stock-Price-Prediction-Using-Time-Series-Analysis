@@ -109,3 +109,5 @@ Chung, H. and Shin, K.S., (2018). Genetic algorithm-optimized long short-term me
 Karim, F., Majumdar, S., Darabi, H. and Chen, S., (2017). LSTM fully convolutional networks for time series classification. IEEE access, 6, pp.1662-1669.
 
 Lipton, Z.C., Kale, D.C., Elkan, C. and Wetzel, R., (2015). Learning to diagnose with LSTM recurrent neural networks. arXiv preprint arXiv:1511.03677.
+
+Su, J., Jiang, C., Jin, X., Qiao, Y., Xiao, T., Ma, H., Wei, R., Jing, Z., Xu, J. and Lin, J., (2024). Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review. arXiv preprint arXiv:2402.10350.
