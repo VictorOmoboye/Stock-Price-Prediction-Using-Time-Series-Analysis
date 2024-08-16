@@ -3,7 +3,7 @@
 This project provides an overview of utilizing deep learning techniques, specifically LSTM neural networks, for stock price prediction through time series analysis. It outlines the significance, proposed solution, challenges, and references, setting the stage for further exploration and implementation in the financial domain.
 
 ![image](https://github.com/user-attachments/assets/7ce729fe-2174-4675-835f-bc94ea39871f)
-# OVERVIEW
+# OVERVIE
 
 This project emails the development of a time series model using an LSTM architecture to predict Tesla stock market highs. The model employs historical data with using batch normalization and dropout layers to enhance generalization and mitigate overfitting. The model is trained and validated, using metrics such as RMSE to assess its predictive performance. In addition, the model is applied to a different dataset, BTC-USD, to forecast its market highs. Hence by evaluating its accuracy using metrics like MAE, MSE, and RMSE, the model's versatility and effectiveness across diverse data sets are demonstrated. The process includes data preprocessing, feature engineering, model training, and tuning, followed by extensive validation and performance evaluation. This thorough method confirms the model's capacity to precisely forecast market trends within diverse time series datasets, furnishing valuable insights to inform potential investment choices.
 
