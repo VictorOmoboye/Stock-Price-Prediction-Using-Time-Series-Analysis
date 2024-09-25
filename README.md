@@ -97,29 +97,6 @@ The findings highlight the importance of scaling in machine learning models to e
 
 This project demonstrated the importance of data scaling in achieving consistent and robust model performance across different datasets. Therefore, the insights gained highlights the necessity of ensuring feature ranges are consistent across datasets, which can lead to better generalization and accuracy. Consequently, this project’s success has potential impacts on financial modelling and other domains where data consistency and model performance are critical. In the context of future enhancement, experimenting with other scaling methods such as standardization or more advanced normalization techniques could offer further performance improvements. Additionally, investigating the model's sensitivity to data preprocessing and exploring techniques like regularization or early stopping could further enhance the model’s robustness and adaptability across diverse datasets.
 
-## References
-Alexandropoulos, S.A.N., Kotsiantis, S.B. and Vrahatis, M.N., (2019). Data preprocessing in predictive data mining. The Knowledge Engineering Review, 34, p.e1.
-
-Ali, M., Khan, D.M., Aamir, M., Ali, A. and Ahmad, Z., (2021). Predicting the direction movement of financial time series using artificial neural network and support vector machine. Complexity, 2021, pp.1-13.
-
-Bhandari, H.N., Rimal, B., Pokhrel, N.R., Rimal, R., Dahal, K.R. and Khatri, R.K., (2022). Predicting stock market index using LSTM. Machine Learning with Applications, 9, p.100320.
-
-Chung, H. and Shin, K.S., (2018). Genetic algorithm-optimized long short-term memory network for stock market prediction. Sustainability, 10(10), p.3765.
-
-Karim, F., Majumdar, S., Darabi, H. and Chen, S., (2017). LSTM fully convolutional networks for time series classification. IEEE access, 6, pp.1662-1669.
-
-Lipton, Z.C., Kale, D.C., Elkan, C. and Wetzel, R., (2015). Learning to diagnose with LSTM recurrent neural networks. arXiv preprint arXiv:1511.03677.
-
-Su, J., Jiang, C., Jin, X., Qiao, Y., Xiao, T., Ma, H., Wei, R., Jing, Z., Xu, J. and Lin, J., (2024). Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review. arXiv preprint arXiv:2402.10350.
-
-Van Houdt, G., Mosquera, C. and Nápoles, G., (2020). A review on the long short-term memory model. Artificial Intelligence Review, 53(8), pp.5929-5955.
-
-Wang, X., Liu, H., Du, J., Dong, X. and Yang, Z., (2023). A long-term multivariate time series forecasting network combining series decomposition and convolutional neural networks. Applied Soft Computing, 139, p.110214.
-
-Wang, Y., Chen, Q., Sun, M., Kang, C. and Xia, Q., 2018. An ensemble forecasting method for the aggregated load with subprofiles. IEEE Transactions on Smart Grid, 9(4), pp.3906-3908.
-
-Wibawa, A.P., Fadhilla, A.F., Paramarta, A.K.A.I., Triono, A.P.P., Setyaputri, F.U., Akbari,
-
-A.K.G. and Utama, A.B.P., (2024). Bidirectional Long Short-Term Memory (Bi-LSTM) Hourly Energy Forecasting. In E3S Web of Conferences (Vol. 501, p. 01023). EDP Sciences.
-
-Zeebaree, D.Q., Abdulazeez, A.M., Abdullrhman, L.M., Hasan, D.A. and Kareem, O.S., (2021). The prediction process based on deep recurrent neural networks: A Review. Asian Journal of Research in Computer Science, 11(2), pp.29-45.
+## THANK YOU
+For more information, you can contact me
+![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/f750ef0c-4162-4e8b-bf9a-ef696d4e2b03)
