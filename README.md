@@ -85,4 +85,4 @@ This project demonstrated the importance of data scaling in achieving consistent
 
 ## THANK YOU
 For more information, you can contact me
-![image](https://github.com/user-attachments/assets/dd349f64-b7a7-4a73-84c0-2b707e3d4a45)
+![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
